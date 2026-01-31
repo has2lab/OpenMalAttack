@@ -1,0 +1,3 @@
+[submodule "ThirdParty/MakeOver"]
+	path = ThirdParty/MakeOver
+	url = https://github.com/pwwl/enhanced-binary-diversification.git
